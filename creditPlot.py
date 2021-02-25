@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import 
 import numpy as np
 x = [
     545,
